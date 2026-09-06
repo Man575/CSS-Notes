@@ -11,6 +11,28 @@ p {
 <body>
   <pre id="notes" style="background-color: black; color: white;"></pre>
 
+<pre id="text" style="background-color: black; color: white;">
+
+</pre>
+
+<p>Hello World!</p>
+<p>These paragraphs are styled with CSS.</p>
+
+
+<script>
+let slct=document.getElementById("text")
+slct.textContent=`
+<html>
+<head>
+<style>
+p {
+  color: red;
+  text-align: center;
+} 
+</style>
+</head>
+<body>
+
 <p>Hello World!</p>
 <p>These paragraphs are styled with CSS.</p>
 
@@ -34,6 +56,9 @@ p {
   In this example, 'p' is the selector that targets all <p> elements. 
   The declarations inside the curly braces set the text color to red and align the text to the center.
   `;
+</script>
+</body>
+</html>`
 </script>
 </body>
 </html>
