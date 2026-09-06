@@ -2,4 +2,4 @@ The child combinator selects all elements that are direct children of a specifie
 
 The following example selects all <p> elements that are direct children of <div>
 
-Eg.>> https://man575.github.io/CSS-Notes/02-CSS-Selectors/Combinator-Selectors/Child-Selector/
+Eg.>> https://man575.github.io/CSS-Notes/02-CSS-Selectors/Combinator-Selector/Child-Selector/
