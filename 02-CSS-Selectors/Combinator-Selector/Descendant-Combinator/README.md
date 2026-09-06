@@ -2,4 +2,4 @@ The descendant combinator matches all elements that are descendants (children, g
 
 The following example selects all <p> elements inside <div> elements, i.e., *div ke andr ka sara p ko select kr leta h*
 
-Eg. >>
+Eg. >> https://man575.github.io/CSS-Notes/02-CSS-Selectors/Combinator-Selector/Descendant-Combinator/
