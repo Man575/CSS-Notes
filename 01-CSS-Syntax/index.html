@@ -7,10 +7,9 @@ p {
   text-align: center;
 } 
 </style>
-</head>
-<body>
-
-<pre>
+<script>
+let slct=document.getElementById("text")
+slct.textContent=`
 <html>
 <head>
 <style>
@@ -26,7 +25,14 @@ p {
 <p>These paragraphs are styled with CSS.</p>
 
 </body>
-</html>
+</html>`
+</script>
+
+</head>
+<body>
+
+<pre id="text">
+
 </pre>
 
 <p>Hello World!</p>
