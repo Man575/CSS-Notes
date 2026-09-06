@@ -9,6 +9,4 @@ Child combinator (>)
 Next sibling combinator (+)
 Subsequent-sibling combinator (~)
 
-<img src="![alt text](image.png)" width="200" height="200">
-
 ![alt text](image-1.png)
