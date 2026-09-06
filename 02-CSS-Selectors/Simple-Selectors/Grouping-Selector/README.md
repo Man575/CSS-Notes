@@ -19,6 +19,8 @@ p {
 
 It will be better to group the selectors, to minimize the code.
 
+Eg.>> https://man575.github.io/CSS-Notes/02-CSS-Selectors/Simple-Selectors/Grouping-Selector/
+
 To group selectors, separate each selector with a comma.
 h1, h2, p {
   text-align: center;
