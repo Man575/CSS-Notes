@@ -1,8 +1,8 @@
 **A class name cannot start with a number**
+---------------------------------
+The class selector selects HTML elements with a specific class attribute.
 
-1. The class selector selects HTML elements with a specific class attribute.
-
-2. To select elements with a specific class, write a **period (.) character**, followed by the class name.
+To select elements with a specific class, write a **period (.) character**, followed by the class name.
 
 Eg. >> https://man575.github.io/CSS-Notes/02-CSS-Selectors/Simple-Selectors/index.html/
 
