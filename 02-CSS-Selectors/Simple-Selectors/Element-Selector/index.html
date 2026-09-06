@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        p {
+        text-align: center;
+        color: red;
+        } 
+        </style>
+    </head>
+    <body>
+        <pre id="notes" style="background-color: black; color: white;"></pre>
+        <p>Every paragraph will be affected by the style.</p>
+        <p id="para1">Me too!</p>
+        <p>And me!</p>
+
+
+        <script>
+        let slct=document.getElementById("notes")
+        slct.textContent=`<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        p {
+        text-align: center;
+        color: red;
+        } 
+        </style>
+    </head>
+    <body>
+        <p>Every paragraph will be affected by the style.</p>
+        <p id="para1">Me too!</p>
+        <p>And me!</p>
+    </body>
+</html>`
+        </script>
+    </body>
+</html>

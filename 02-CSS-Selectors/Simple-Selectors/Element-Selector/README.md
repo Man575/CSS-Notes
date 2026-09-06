@@ -1,0 +1,1 @@
+The element selector selects HTML elements based on the element name.

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#para1 {
+  text-align: center;
+  color: red;
+}
+</style>
+</head>
+<body>
+<pre id="notes" style="background-color: black; color: white;"></pre>
+<p id="para1">Hello World!</p>
+<p>This paragraph is not affected by the style.</p>
+
+
+<script >
+let slct=document.getElementById("notes")
+slct.textContent=`<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        #para1 {
+        text-align: center;
+        color: red;
+        }
+        </style>
+    </head>
+    <body>
+        <p id="para1">Hello World!</p>
+        <p>This paragraph is not affected by the style.</p>
+
+    </body>
+</html>`
+</script>
+</body>
+</html>
