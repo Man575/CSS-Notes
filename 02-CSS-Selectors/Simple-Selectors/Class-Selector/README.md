@@ -4,7 +4,7 @@
 
 2. To select elements with a specific class, write a **period (.) character**, followed by the class name.
 
-Eg. >> 02-CSS-Selectors/Simple-Selectors/Class-Selector/index.html
+Eg. >> https://github.com/Man575/CSS-Notes/blob/main/02-CSS-Selectors/Simple-Selectors/Class-Selector/index.html
 
 You can also specify that only specific HTML elements should be affected by a class
 
